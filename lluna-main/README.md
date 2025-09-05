@@ -1,4 +1,4 @@
-🧾 Legaluna – Prototype Link: https://legaluna.netlify.app/
+🧾 Legaluna – 
 Legaluna is an AI-powered legal assistant platform that simplifies Indian legal guidance with multilingual support, offering users easy access to legal help without jargon or hassle.
 It blends AI chat, legal templates, and community support for inclusive legal empowerment and won the First place at the intra level IDEATHON.
 
